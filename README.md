@@ -47,4 +47,9 @@ Love turning complex problems into simple, elegant solutions!
 - **Patterns:** MVC, MVT
 - **Principles:** DRY, ACID, SOLID
 ---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shudipta-majumder&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shudipta-majumder&theme=radical" />
+</p>
+
 
