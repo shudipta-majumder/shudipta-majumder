@@ -3,6 +3,13 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" />
+</p>
 
 # Hi there 👋!
 
