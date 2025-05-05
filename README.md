@@ -2,30 +2,21 @@
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" />
-</p>
-
 # Hi there 👋!
 
 ## Who I am?
-A software developer based in **Dhaka, Bangladesh**.  
-Have **4+ years** of hands-on experience in software development & product design.  
-Developed products for **Fintech, HRMS, Accounts, Retail, and Logistics** business domains.
+Hi, I'm a software developer based in Dhaka, Bangladesh, with over 2.6 years of experience in crafting web applications.
+I’ve contributed to projects in **HRMS**, **Education Management**, and **Enterprise Pricing** Buisness domains.
+Love turning complex problems into simple, elegant solutions!
 
 ---
 
 ## 🚀 What I'm doing?
-- 🏢 Working at **Strativ** as a **Senior Backend Engineer**.
-- 👨‍💻 Writing **Python**, **SQL**, **TypeScript**, **React**, **Next.js**, **JavaScript**.
-- 🌍 Active in the **Python** & **SQLAlchemy** community.
+- 🏢 Working at **Walton** as a **Senior Backend Engineer**.
+- 👨‍💻 Writing **Python**, **SQL**, **TypeScript**, **Next.js**, **JavaScript**.
+- 🌍 Active in the **Python** & **Nextjs** community.
 - 📚 Currently learning about **Clean Architecture**, **SOLID**, and advanced **GoLang** techniques.
-- 🛠️ Working on **Microservices**, **Fintech APIs**, **Django**, and **React** professionally.
+- 🛠️ Working on **Microservices** professionally.
 - 👯 Looking to collaborate on **Python projects**.
 
 ---
@@ -38,37 +29,22 @@ Developed products for **Fintech, HRMS, Accounts, Retail, and Logistics** busine
 
 ---
 
-## 🛠️ Skill Set
+## 🛠️ Skills
 
 ### 🖥 Front-end:
 - **Languages:** JavaScript, HTML, CSS, Bootstrap, SASS
 - **Frameworks:** React, Next.js
-- **UI Toolkits:** React MUI, shadcn UI
+- **UI Toolkits:** MUI, shadcn
 
 ### 🗄️ Back-end:
 - **Languages:** Python (> 3.8)
-- **Frameworks:** FastAPI, Flask, Django, SQLAlchemy
-- **Databases:** SQL Server, Oracle, MySQL
+- **Frameworks:** FastAPI, Django
+- **Databases:** PosrgreSQL, MongoDb, Redis
 - **Architecture:** Monolithic, Microservices
 - **Protocols:** REST, TCP/IP, WebSocket
 
-### 🎡 Software Dev Ecosystem:
-- **Code Repositories:** Git, SVN
-
 ### 🧙‍♂️ Coding Patterns & Principles:
 - **Patterns:** MVC, MVT
-- **Principles:** DRY, ACID, DDD, SOLID
-- **Frameworks/Versions:** FastAPI, Python 3.8 - 3.11, SQLAlchemy
-- **Code Editors:** VS Code, PyCharm, etc.
-
----
-
-## 😎 What's interesting about me?
-- I love to speak good English, discuss new ideas, and make people smile 😄
-- I'm precise and thorough in coding 🧐
-- I write comments explaining **why** code is written, not just **what** ✍️
-- I'm a workaholic ☕ (coffee lover)
-- I can’t resist exploring new tech in the Python ecosystem 😅
-
+- **Principles:** DRY, ACID, SOLID
 ---
 
