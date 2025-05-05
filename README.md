@@ -47,13 +47,9 @@ Love turning complex problems into simple, elegant solutions!
 - **Patterns:** MVC, MVT
 - **Principles:** DRY, ACID, SOLID
 ---
-<div >
-  <img src="https://github-readme-stats.vercel.app/api?username=shudipta-majumder&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shudipta-majumder&theme=radical" />
+<div align="center" style="width:400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=shudipta-majumder&show_icons=true&theme=radical" width="400"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shudipta-majumder&theme=radical" width="400"  />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shudipta-majumder&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shudipta-majumder&theme=radical" />
-</div>
 
