@@ -52,7 +52,8 @@ Love turning complex problems into simple, elegant solutions!
 ---
 <div align="center" style="width:400px">
   <img src="https://github-readme-stats.vercel.app/api?username=shudipta-majumder&show_icons=true&theme=radical" width="400"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shudipta-majumder&theme=radical" width="400"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=shudipta-majumder&show_icons=true&theme=radical" width="400" /> -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ### Get Touch with me:
